@@ -1,14 +1,14 @@
 # Git Convention 👋
 
 ### 목차
-1) Git Naming Convention 📫
-2) Git Readme Convention 📄
-3) Git Commit Convention 💬
+1) [Git Naming Convention 📫](#git-naming-convention)
+2) [Git Readme Convention 📄](#git-readme-convention)
+3) [Git Commit Convention 💬](#git-commit-convention)
 
 
 <br/>
 
-## Git Naming Convention 📫
+# Git Naming Convention
 <br/>
 
 - 특수문자, CamelCase 금지  
@@ -26,7 +26,7 @@ dreamers-php-frontend,backend
 <br/>
 
 
-## Git Readme Convention 📄
+## Git Readme Convention
 <br/>
 
 1) **프로젝트명**  
@@ -99,7 +99,7 @@ Readme 자동화 도구
 <br/>
 
 
-## Git Commit Convention 💬
+# Git Commit Convention
 <br/>
 
 ### 메세지 구조 
